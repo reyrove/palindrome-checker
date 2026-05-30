@@ -1,3 +1,5 @@
+Here is the full README.md code in one block:
+
 ```markdown
 # Palindrome Checker
 
