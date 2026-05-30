@@ -1,16 +1,3 @@
-### Repository Name
-`palindrome-checker`
-
-### Description
-A simple web app that checks if any text is a palindrome, ignoring case, spaces, and special characters. Live demo included.
-
-### Recommended GitHub Topics
-`palindrome-checker`, `javascript`, `html-css-javascript`, `frontend`, `beginner-project`, `demo-link`
-
-### Updated README.md (with Live Demo Badge)
-
-Below is the complete `README.md` file you can use for your repository, now including a link to your live demo.
-
 ```markdown
 # Palindrome Checker
 
