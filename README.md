@@ -1,6 +1,22 @@
+### Repository Name
+`palindrome-checker`
+
+### Description
+A simple web app that checks if any text is a palindrome, ignoring case, spaces, and special characters. Live demo included.
+
+### Recommended GitHub Topics
+`palindrome-checker`, `javascript`, `html-css-javascript`, `frontend`, `beginner-project`, `demo-link`
+
+### Updated README.md (with Live Demo Badge)
+
+Below is the complete `README.md` file you can use for your repository, now including a link to your live demo.
+
+```markdown
 # Palindrome Checker
 
-A simple, clean web application that checks whether a given text string is a palindrome. A palindrome is a word, phrase, number, or sequence that reads the same forward and backward, ignoring punctuation, case, and spacing.
+A simple, clean web application that checks whether a given text string is a palindrome.
+
+[Live Demo](https://reyrove.github.io/palindrome-checker/)
 
 ## Features
 
@@ -26,12 +42,11 @@ The checker removes all non-alphanumeric characters (spaces, punctuation, symbol
 
 ## Installation
 
-1. Create a new folder on your computer
-2. Save the following files in that folder:
-   - `index.html` (the HTML structure)
-   - `styles.css` (the styling)
-   - `script.js` (the JavaScript logic)
-3. Open `index.html` in any modern web browser
+1. Clone the repository:
+   ```
+   git clone https://github.com/reyrove/palindrome-checker.git
+   ```
+2. Open `index.html` in any modern web browser
 
 ## File Structure
 
@@ -39,7 +54,10 @@ The checker removes all non-alphanumeric characters (spaces, punctuation, symbol
 palindrome-checker/
 ├── index.html
 ├── styles.css
-└── script.js
+├── script.js
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ## Usage Examples
@@ -51,22 +69,15 @@ palindrome-checker/
 | hello | is not a palindrome |
 | 12321 | is a palindrome |
 
+## Live Demo
+
+Visit: [https://reyrove.github.io/palindrome-checker/](https://reyrove.github.io/palindrome-checker/)
+
 ## Browser Support
 
-Works on all modern browsers including:
-- Google Chrome
-- Mozilla Firefox
-- Safari
-- Microsoft Edge
-
-## Customization
-
-You can modify the `styles.css` file to change:
-- Color schemes
-- Font families
-- Layout dimensions
-- Responsive breakpoints
+Works on all modern browsers including Chrome, Firefox, Safari, and Edge.
 
 ## License
 
-This project is open source and available for personal and educational use.
+MIT License - see the [LICENSE](LICENSE) file for details.
+```
