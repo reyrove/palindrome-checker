@@ -2,6 +2,8 @@
 
 A simple, clean web application that checks whether a given text string is a palindrome. A palindrome is a word, phrase, number, or sequence that reads the same forward and backward, ignoring punctuation, case, and spacing.
 
+[Live Demo](https://reyrove.github.io/palindrome-checker/)
+
 ## Features
 
 - Real-time palindrome validation
